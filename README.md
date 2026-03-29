@@ -1,9 +1,12 @@
 # GlowGlove
+## The idea
 ![img](concept.jpg)
-I saw lots of people make cool LED projects and so I also decided that I was going to try to make one. This is basically just a matrix of 100 LEDs that I will form around my hand so that it is all glowy. The main problem is going to be wiring them, because I want all of the connections to be flexible, and I also want to be able to control the LED's seperately, so I was going to use a mesh, so that I can just cycle through 10 at a time, and so I can have individual control over each LED. I was thnking that I could do something interesting with this and, basically jsut be glowy and look cool.
+I saw lots of people make cool LED projects and so I also decided that I was going to try to make one. This is basically just a matrix of 100 LEDs that I will form around my hand so that it is all glowy. The main problem is going to be wiring them, because I want all of the connections to be flexible, so that it could wrap around my harnd without any extra hold. I was thnking that I could do something interesting with this and, basically jsut be glowy and look cool. THe ideas was pretty much a glove made only of wires and LEDs.
+## Building
+TThe One important thing that I learned was that you can only have 2 LEDs in series, because otherwise the voltage drop across all of them combined is too high. 
 
-One important thing that I learned was that you can only have 2 LEDs in series, because otherwise the voltage drop across all of them combined is too high. 
 <img width="400" height="194" alt="image" src="https://github.com/user-attachments/assets/daa5fc38-9d57-4d4f-a807-cfa348bb7560" />
+
 Then I just connected 7 of these together in parralel in order to maker the light for 1 "finger". In total I ended up making 35 of these LED pairs into these 5 fingers. Then I connected two of the fingers together on the positive to suuply 5V to both of them, and then linked up all of the fingers together with ground.
 <img width="724" height="438" alt="image" src="https://github.com/user-attachments/assets/953ceed0-6e33-481b-b20f-045a7ac15096" />
 
