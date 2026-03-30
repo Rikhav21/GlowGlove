@@ -13,6 +13,9 @@ Then I just connected 7 of these together in parralel in order to maker the ligh
 
 Here is the schematic for all of the LEDs.
 
+<img width="1443" height="676" alt="image" src="https://github.com/user-attachments/assets/90bab071-ca2b-4e2d-b4f7-19fc01c4cb4c" />
+
+
 The hardest part was soldering on joint at a time, then bending and reshaping it to fit around each individual curve. Now it holds it's shape without any additional support, so I feel like it was pretty successful. Heres a link to a [demo](https://www.youtube.com/watch?v=W81i2weUerg)
 <img width="762" height="499" alt="image" src="https://github.com/user-attachments/assets/cdab6732-7f79-4371-8dd8-dc969f239423" />
 
