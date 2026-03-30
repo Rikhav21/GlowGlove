@@ -8,6 +8,7 @@ TThe One important thing that I learned was that you can only have 2 LEDs in ser
 <img width="400" height="194" alt="image" src="https://github.com/user-attachments/assets/daa5fc38-9d57-4d4f-a807-cfa348bb7560" />
 
 Then I just connected 7 of these together in parralel in order to maker the light for 1 "finger". In total I ended up making 35 of these LED pairs into these 5 fingers. Then I connected two of the fingers together on the positive to suuply 5V to both of them, and then linked up all of the fingers together with ground.
+
 <img width="724" height="438" alt="image" src="https://github.com/user-attachments/assets/953ceed0-6e33-481b-b20f-045a7ac15096" />
 
 Here is the schematic for all of the LEDs.
